@@ -1,2 +1,2 @@
 # Environmental-Stewardship-awarness
-A simple website that informs about environmental stewardship 
+A simple information page and quiz about environmental stewardship 
